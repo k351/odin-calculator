@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  border: black 2px solid;
+  font-size: 20px;
+  width: 200px;
+  height: 200px;
+}
+
+.display {
+  border: black 2px solid;
+  margin: 20px 20px;
+  text-align: end;
+}
+
+.inner-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 20px;
+}
+
+.numbers {
+  font-size: 20px;
+  width: 90px;
+  height: 100px;
+}
+
+.numbers button {
+  width : 23.26px;
+  height: 21.2px;
+}
+
+.operands {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
