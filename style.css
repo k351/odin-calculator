@@ -27,6 +27,7 @@ button {
 
 .screen {
   margin: 5px;
+  padding: 3px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
